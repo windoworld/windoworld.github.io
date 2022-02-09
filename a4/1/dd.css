@@ -1,0 +1,20 @@
+.styled-dd {
+   overflow: hidden;
+}
+
+.styled-dd select {
+   background: transparent;
+}
+
+.styled-dd.slate {
+   background: url(/1/ddarr.png) no-repeat right center;
+   height: 34px;
+   width: 140px;
+}
+
+.styled-dd.slate select {
+   border: 1px solid #ccc;
+   font-size: 20px;
+   height: 34px;
+   width: 168px;
+}
